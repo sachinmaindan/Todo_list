@@ -1,2 +1,5 @@
 # Todo_list
-A to-do list project is an application that helps users keep track of tasks. Users can enter tasks, remove completed tasks, and prioritize tasks.
+
+#Developed a Todo list project using JavaScript, HTML, and CSS Created a user-friendly interface for adding, removing, and marking/unmarking tasks. Implemented an animated remove function for enhanced user experience. Successfully completed and achieved desired functionalities in the project.
+
+#Website link: https://sachinmaindan.github.io/Todo_list/
